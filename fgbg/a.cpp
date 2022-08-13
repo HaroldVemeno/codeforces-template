@@ -19,5 +19,4 @@ int32_t main() {
     while(tests-- > 0) {
         solve();
     }
-
 }
